@@ -311,4 +311,28 @@ div.tab {
     width: 20%;
     background-color: #edeff2;
 }
+/* Style the buttons inside the tab */
+
+div.tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    border: 0;
+    outline: none;
+    text-align: right;
+    cursor: pointer;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    color: #121212;
+    font-size: 15px;
+    font-weight: 500;
+    border-bottom: 1px solid transparent;
+    line-height: 1;
+    text-transform: capitalize;
+}
 
