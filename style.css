@@ -302,4 +302,13 @@ a {
 .post-media img {
     width: 100%;
 }
+/* Style the tab */
+
+div.tab {
+    float: left;
+    padding: 2rem 0;
+    border-right: 1px solid #e1e3e6;
+    width: 20%;
+    background-color: #edeff2;
+}
 
