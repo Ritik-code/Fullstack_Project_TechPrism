@@ -335,4 +335,17 @@ div.tab button {
     line-height: 1;
     text-transform: capitalize;
 }
+/* Change background color of buttons on hover */
+
+div.tab button:hover,
+div.tab button.active {
+    background-color: #ffffff;
+    border-right: 0 solid #e1e3e6;
+    border-bottom: 1px solid #e1e3e6;
+    border-left: 0 solid #e1e3e6;
+}
+
+div.tab button:hover {
+    border-top: 0;
+}
 
