@@ -8,5 +8,5 @@ Online tech magazine is a platform for students to exhibit their talent through 
 Team Members:
 1)Ritik Srivastava_181500578,
 2)Adarsh Kumar_181500037,
-3)Vivek Kumar_181500819,
+3)Vivek Kumar Singh_181500819,
 4)Siddhant Gupta_181500708.
