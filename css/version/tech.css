@@ -16,3 +16,28 @@ body,
 p {
     font-family: 'Poppins', serif !important;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 600;
+}
+
+.navbar-inverse .navbar-nav .nav-link,
+.navbar-nav .nav-link {
+    color: #ffffff !important;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.header .navbar-nav .has-submenu ul {
+    margin-top: 17px !important
+}
+
+.header .navbar-nav .has-submenu.menu-large ul {
+    margin-top: 0px !important;
+}
