@@ -221,3 +221,37 @@ h5 {
 .trend-videos hr.invis {
     margin: 1rem 0;
 }
+
+.navbar-toggler-right {
+    top: 18px;
+}
+
+.blog-title-area span a {
+    font-size: 13px;
+}
+
+.pp .float-right {
+    margin-left: 2rem;
+}
+
+.trend-videos .hovereffect span:before {
+    opacity: 1 !important;
+    display: block !important;
+    visibility: visible !important;
+}
+
+.bg-orange {
+    background-color: #FF6347 !important;
+}
+
+.page-title .bg-orange,
+.masonry-box:hover .blog-meta span.bg-orange,
+.color-orange a {
+    background-color: #FF6347 !important;
+}
+
+.footer a:hover,
+.footer .fa:hover,
+.footer .fa:focus {
+    color: #0091e5 !important;
+}
