@@ -11,3 +11,24 @@
         padding: 0 0.2rem !important;
     }
 }
+@media (max-width: 989px) {
+    .search-form .btn:hover,
+    .search-form .btn:focus,
+    .search-form .btn {
+        position: relative;
+    }
+    .custombox .blog-list-widget,
+    .custombox .blog-box {
+        margin: 1rem 0;
+    }
+    .sidebar,
+    .footer .widget {
+        margin: 1.5rem 0;
+    }
+    .center-side,
+    .left-side,
+    .right-side {
+        float: left;
+        width: 50%;
+    }
+}
