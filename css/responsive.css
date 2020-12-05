@@ -32,3 +32,26 @@
         width: 50%;
     }
 }
+@media (max-width: 768px) {
+    .post-sharing .btn {
+        padding: 0.6rem !important;
+    }
+    .blog-custom-build .down-mobile,
+    .blog-title-area .down-mobile {
+        display: none !important;
+    }
+    .newsletter-widget .form-inline .form-control {
+        width: 100%;
+    }
+    .newsletter-widget .btn {
+        display: block;
+        width: 100%;
+        margin-top: 0.5rem;
+    }
+    .blog-list .blog-meta.big-meta h4 {
+        background-color: #ffffff;
+        margin-left: 0;
+        margin-top: 1rem;
+        padding: 1rem 0;
+    }
+}
