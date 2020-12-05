@@ -40,6 +40,10 @@ a:focus,
     border-color: #3197d6;
 }
 
+
+/* OTHER COLORS
+**************************************/
+
 .navbar-nav .nav-link.active.color-pink-hover,
 .navbar-nav .nav-link.color-pink-hover:hover,
 .navbar-nav .nav-link.color-pink-hover:focus {
