@@ -48,3 +48,61 @@ h5 {
 .navbar-nav .nav-link:focus {
     opacity: 0.8;
 }
+
+.dropdown-toggle::after {
+    margin-top: -4px;
+}
+
+.mr-2 .nav-link {
+    font-size: 21px !important;
+    padding: 0.6rem 0.6rem 0 !important;
+}
+
+.first-slot {
+    float: left;
+    width: 50%;
+}
+
+.last-slot,
+.second-slot {
+    float: left;
+    width: 25%;
+}
+
+.first-slot .blog-meta h4 {
+    font-size: 31px;
+    line-height: 1.4;
+}
+
+.first-section .blog-meta h4 {
+    font-weight: 600;
+    padding: 0.8rem 0 0.5rem !important;
+}
+
+.blog-meta.big-meta h4 {
+    font-size: 24px;
+}
+
+.single-wrapper {
+    margin-top: 3.5rem;
+}
+
+.first-section {
+    margin-top: 4rem;
+}
+
+.blog-grid-system .color-orange {
+    display: block;
+    margin-top: 1rem;
+}
+
+.blog-grid-system .color-orange a {
+    color: #ffffff !important;
+    font-size: 13px;
+    padding: 0 0.7rem;
+    border-radius: 3px;
+}
+
+.blog-top {
+    margin-bottom: 2rem;
+}
