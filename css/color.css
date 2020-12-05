@@ -13,3 +13,29 @@ a:focus,
 .navbar-inverse .navbar-nav .open > .nav-link {
     color: #3197d6 !important;
 }
+
+.dmtop,
+.search-form .btn:hover,
+.search-form .btn:focus,
+.search-form .btn {
+    color: #ffffff !important;
+    background-color: #3197d6 !important;
+}
+
+.tag-cloud-single span,
+.page-title i,
+.btn:hover,
+.sitemap-wrapper .year,
+.btn:focus,
+.navbar-inverse .navbar-toggler {
+    color: #ffffff !important;
+    background-color: #3197d6;
+}
+
+.blockquote {
+    border-left-color: #3197d6;
+}
+
+.footer .widget-title {
+    border-color: #3197d6;
+}
