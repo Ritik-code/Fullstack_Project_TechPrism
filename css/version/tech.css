@@ -24,3 +24,163 @@ h4,
 h5 {
     font-weight: 600;
 }
+.navbar-inverse .navbar-nav .nav-link,
+.navbar-nav .nav-link {
+    color: #ffffff !important;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.header .navbar-nav .has-submenu ul {
+    margin-top: 17px !important
+}
+
+.header .navbar-nav .has-submenu.menu-large ul {
+    margin-top: 0px !important;
+}
+
+.navbar-inverse .navbar-nav .nav-link:focus,
+.navbar-nav .nav-link:hover,
+.navbar-inverse .navbar-nav .nav-link:focus,
+.navbar-nav .nav-link:focus {
+    opacity: 0.8;
+}
+
+.dropdown-toggle::after {
+    margin-top: -4px;
+}
+
+.mr-2 .nav-link {
+    font-size: 21px !important;
+    padding: 0.6rem 0.6rem 0 !important;
+}
+
+.first-slot {
+    float: left;
+    width: 50%;
+}
+
+.last-slot,
+.second-slot {
+    float: left;
+    width: 25%;
+}
+
+.first-slot .blog-meta h4 {
+    font-size: 31px;
+    line-height: 1.4;
+}
+
+.first-section .blog-meta h4 {
+    font-weight: 600;
+    padding: 0.8rem 0 0.5rem !important;
+}
+
+.blog-meta.big-meta h4 {
+    font-size: 24px;
+}
+
+.single-wrapper {
+    margin-top: 3.5rem;
+}
+
+.first-section {
+    margin-top: 4rem;
+}
+
+.blog-grid-system .color-orange {
+    display: block;
+    margin-top: 1rem;
+}
+
+.blog-grid-system .color-orange a {
+    color: #ffffff !important;
+    font-size: 13px;
+    padding: 0 0.7rem;
+    border-radius: 3px;
+}
+
+.blog-top {
+    margin-bottom: 2rem;
+}
+
+.blog-top h4 {
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+}
+
+.banner-spot {
+    padding: 0 !important;
+    border: 1px solid #e2e2e2;
+}
+
+.page-wrapper .banner-spot {
+    padding: 1rem !important;
+    border: 1px solid #e2e2e2;
+}
+
+.blog-top .fa {
+    font-size: 18px !important;
+    line-height: 1 !important;
+    padding-left: 10px;
+}
+
+.blog-meta small a,
+.blog-meta small {
+    font-weight: 500;
+    color: #999 !important;
+}
+
+.fa-star {
+    font-size: 12px;
+    margin: 0 -2px 0 0;
+}
+.social-button {
+    background-color: #dddddd;
+    display: table;
+    padding: 0.5rem 1rem;
+    color: #ffffff !important;
+    position: relative;
+    width: 100%;
+}
+
+.social-button .fa {
+    color: #ffffff !important;
+}
+
+.social-button p {
+    margin: 10px 0 0;
+    padding: 0;
+    color: #ffffff !important;
+    line-height: 1;
+}
+
+.facebook-button {
+    background-color: #3b5998;
+}
+
+.twitter-button {
+    background-color: #1da1f2;
+}
+
+.google-button {
+    background-color: #ea4335;
+}
+
+.youtube-button {
+    background-color: #cd201f;
+}
+
+.blog-meta .bg-orange {
+    color: #ffffff !important;
+    padding: 0 0.8rem;
+    border-radius: 3px;
+}
+
+.blog-meta small.firstsmall:after {
+    content: "" !important;
+    padding-left: 0;
+}
