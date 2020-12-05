@@ -184,3 +184,23 @@ h5 {
     content: "" !important;
     padding-left: 0;
 }
+.footer {
+    background-color: #000000;
+    background-image: none;
+}
+
+.footer .widget-title {
+    color: #ffffff !important;
+}
+
+.footer p {
+    color: #999999 !important;
+}
+
+.footer a {
+    color: #999999 !important;
+}
+
+.footer .link-widget li {
+    border-color: #444;
+}
