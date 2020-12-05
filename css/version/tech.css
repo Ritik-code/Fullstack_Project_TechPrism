@@ -176,3 +176,48 @@ h5 {
 .youtube-button {
     background-color: #cd201f;
 }
+
+.blog-meta .bg-orange {
+    color: #ffffff !important;
+    padding: 0 0.8rem;
+    border-radius: 3px;
+}
+
+.blog-meta small.firstsmall:after {
+    content: "" !important;
+    padding-left: 0;
+}
+
+.footer {
+    background-color: #000000;
+    background-image: none;
+}
+
+.footer .widget-title {
+    color: #ffffff !important;
+}
+
+.footer p {
+    color: #999999 !important;
+}
+
+.footer a {
+    color: #999999 !important;
+}
+
+.footer .link-widget li {
+    border-color: #444;
+}
+
+.trend-videos h4 {
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.trend-videos h4 a {
+    color: #111111 !important;
+}
+
+.trend-videos hr.invis {
+    margin: 1rem 0;
+}
