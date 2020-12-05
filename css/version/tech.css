@@ -1,3 +1,12 @@
+/**************************************
+
+    File Name: tech.css
+    Template Name: Tech Blog
+    Created By: HTML.Design
+    http://themeforest.net/user/wpdestek
+
+**************************************/
+
 body {
     background-color: #ffffff;
 }
@@ -106,7 +115,6 @@ h5 {
 .blog-top {
     margin-bottom: 2rem;
 }
-
 
 .blog-top h4 {
     padding: 0;
@@ -272,7 +280,6 @@ a:focus {
     color: #ffffff !important;
     background: rgba(0, 0, 0, 0) linear-gradient(to right, #0091e5 0px, #00b7e5 100%) repeat scroll 0 0 !important
 }
-
 
 .tag-cloud-single span,
 .navbar-inverse {
