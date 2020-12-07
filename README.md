@@ -15,8 +15,9 @@ Work Distribution:
 1)Ritik Srivastava -> tech-index.html page , tech-about.html page, tech-contact.html page
                       and other bootstrap work.
 
-2)Adarsh Kumar -> tech-category-01.html page, tech-single.html page and included the images.
+2)Adarsh Kumar -> tech-category-01.html page, tech-single.html page and included the images of all pages.
 
 3)Vivek Kumar -> style.css, color.css and others CSS work.
 
-4)Siddhant Gupta -> all the JavaScript work.                   
+4)Siddhant Gupta -> all the JavaScript work and found the heading of the articles and blogs for the
+                    website.                   
